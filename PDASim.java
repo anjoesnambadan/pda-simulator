@@ -79,7 +79,7 @@ public class PDASim
     
     public static void main(String args[])
     {
-        PDASim p = PDASim Main();
+        PDASim p = new PDASim();
         Scanner kb = new Scanner(System.in);
         String str;
         System.out.print("Enter the string: ");// accept the string
